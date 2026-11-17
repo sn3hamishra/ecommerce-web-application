@@ -1,0 +1,19 @@
+# React frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Spring Boot backend
+backend/target/
+backend/.settings/
+backend/.classpath
+backend/.project
+backend/.factorypath
+
+# Sensitive configuration
+**/application-dev.properties
+
+# General
+*.log
+.DS_Store
